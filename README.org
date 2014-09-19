@@ -1,0 +1,3 @@
+Toiletlogger - logger til SD-kort.
+
+Kræver arduino, RTC og SD-kort-læser.
